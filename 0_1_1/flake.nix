@@ -9,7 +9,7 @@
   
   inputs.src-sequoia-0_1_1.flake = false;
   inputs.src-sequoia-0_1_1.owner = "ba0f3";
-  inputs.src-sequoia-0_1_1.ref   = "refs/tags/0.1.1";
+  inputs.src-sequoia-0_1_1.ref   = "0_1_1";
   inputs.src-sequoia-0_1_1.repo  = "sequoia.nim";
   inputs.src-sequoia-0_1_1.type  = "github";
   
